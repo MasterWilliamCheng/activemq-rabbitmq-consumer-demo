@@ -1,2 +1,2 @@
 # springboot-consumer
-consumer
+consumer about : dubbo/activemq/rabbitmq
